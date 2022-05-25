@@ -13,5 +13,3 @@
 #import "SCSDKUserDataQueryBuilder.h"
 #import "SCSDKVerifyClient.h"
 #import "SCSnapKitFeatureOptions.h"
-
-#import <UIKit/UIKit.h>
