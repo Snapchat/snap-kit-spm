@@ -12,6 +12,10 @@
 		<data>
 		19XtArXsrZZsH6/HudlwK7ZpnXo=
 		</data>
+		<key>Headers/SCSDKAnalyticsEventsQueue.h</key>
+		<data>
+		/jmWLZtmmAmWTjJa1k1pqkxeWvs=
+		</data>
 		<key>Headers/SCSDKLoginButton.h</key>
 		<data>
 		x/qkJAogO5r3qfr3iMFI4YG1XVQ=
@@ -30,7 +34,7 @@
 		</data>
 		<key>Headers/SCSDKLoginKitProtected.h</key>
 		<data>
-		yIkGcRvsb17gtNZL4tWNKmyWKpA=
+		sqWLLuqqr8or39/HODzAjRF2WTg=
 		</data>
 		<key>Headers/SCSDKResourceNetworkUtilities.h</key>
 		<data>
@@ -58,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		R/B6mqaCLHinYNjv24mWz+Hk9R8=
+		RgEMSZ8j8M7Dy2D4i3nb9y9A3Ak=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -459,6 +463,13 @@
 			RmWdbScETvSManF2KTqSvzbSn1gR1Afk85flpAVChu4=
 			</data>
 		</dict>
+		<key>Headers/SCSDKAnalyticsEventsQueue.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GcvzMmQrgPKM+xo95M+nc89Lzy5FkzzWOYPS74OmE1g=
+			</data>
+		</dict>
 		<key>Headers/SCSDKLoginButton.h</key>
 		<dict>
 			<key>hash2</key>
@@ -491,7 +502,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UoEwVhBtMg5u6XyO+GcwvNXaO+eI8XDGqqHgJJLRquY=
+			7L0KqxKxTFjl79YJyl73j7OzEXs7Do3Z+q3TslVS3X0=
 			</data>
 		</dict>
 		<key>Headers/SCSDKResourceNetworkUtilities.h</key>
