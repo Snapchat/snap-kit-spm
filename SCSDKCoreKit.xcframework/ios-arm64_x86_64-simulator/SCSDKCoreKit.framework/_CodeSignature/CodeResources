@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/Event.h</key>
 		<data>
-		+dlHFyDx9WwAfvq4cb3B0E8XmbI=
+		gf04CukOjcXtR80LLNRN298WNBE=
 		</data>
 		<key>Headers/EventWrapper+Private.h</key>
 		<data>
@@ -27,6 +27,10 @@
 		<key>Headers/EventWrapper.h</key>
 		<data>
 		NUn8hAzmoMuwuqQWv7k6K4afBQs=
+		</data>
+		<key>Headers/KitApplicationEvents.h</key>
+		<data>
+		nBcnLoba2kfiw2DurumZhbauInY=
 		</data>
 		<key>Headers/KitPluginType.h</key>
 		<data>
@@ -122,7 +126,7 @@
 		</data>
 		<key>Headers/SCSDKCoreKitPrivate.h</key>
 		<data>
-		KWahiBI73LPORlKGqTD0ZEG4KmI=
+		tiA/DJ708dBhJCf32yXmUVgA9aA=
 		</data>
 		<key>Headers/SCSDKDeepLinker.h</key>
 		<data>
@@ -302,7 +306,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0p7ys5V2aYLhVEhqPLY2sHeIMyA=
+		9NqPphtLFnDS5Ur73mGonleoajA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -336,7 +340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fT5GQHNXZ13Vc9OgbZNe7UaVY8QsiRLHKYxFuxjpWSc=
+			yXDGSTKDRrh8zvIb6gdNIKa76LwGrWkYUqPOOeHULIk=
 			</data>
 		</dict>
 		<key>Headers/EventWrapper+Private.h</key>
@@ -351,6 +355,13 @@
 			<key>hash2</key>
 			<data>
 			MZngueNw5r+rcxIlfJ1d8l2+tpUHB/b8rEEyHBlpjuA=
+			</data>
+		</dict>
+		<key>Headers/KitApplicationEvents.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iyZQFlXoLdyF5yIKj6Q7NnUKaLc5e8paiiakIAzZCfE=
 			</data>
 		</dict>
 		<key>Headers/KitPluginType.h</key>
@@ -518,7 +529,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0amgC09UvEcp45a3bSjEaaqYXEQs8EETZY/AqLdH78k=
+			xHKh8Mi7QN4fRrvc/z9rnSUETY4+0coK2PCIEP/r94k=
 			</data>
 		</dict>
 		<key>Headers/SCSDKDeepLinker.h</key>
