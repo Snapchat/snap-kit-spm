@@ -26,11 +26,11 @@
 		</data>
 		<key>Headers/SCSDKLoginKit.h</key>
 		<data>
-		fo0QCC9XgquER7Oxd4HbcIxpVNk=
+		eYmYY1kZSAeWG7zT1I6X2ueRbYM=
 		</data>
 		<key>Headers/SCSDKLoginKitErrorCode.h</key>
 		<data>
-		1oc09iBpGWsDE3uOg4I7EpBYi4Q=
+		mLbm6pDioznCOMJqaGHqM4ORDT0=
 		</data>
 		<key>Headers/SCSDKLoginKitProtected.h</key>
 		<data>
@@ -52,17 +52,13 @@
 		<data>
 		oA9/woaTCAgZqD32GlT2IKlYKXI=
 		</data>
-		<key>Headers/SCSDKVerifyClient.h</key>
-		<data>
-		XtEOo7P/lEhEVvEHMcKLULsZZH8=
-		</data>
 		<key>Headers/SCSnapKitFeatureOptions.h</key>
 		<data>
 		3XtI95NJ0aGNhpHuhfG66dQqMuk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		62MFbGjwtaFvGdTlc+2qHV4HFgY=
+		uO+ShNhwktt43zyERLn2JlzvbLM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -488,14 +484,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J1+Iw3KU2Eik3AW2L58S2rczqXuTWPVk/OPqlws9Zf0=
+			I0siwz9FnfD3Td2dY78AeonzyMoApjqqS4EKFRfxpAc=
 			</data>
 		</dict>
 		<key>Headers/SCSDKLoginKitErrorCode.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0lWbJo7HkHUvro0hrvtSoL1BjfcMbkC1BkjvKx8Abs8=
+			id8D8B7hKZqGadRJTY3LCPZOfatwN1Lp1tLit8nHSrk=
 			</data>
 		</dict>
 		<key>Headers/SCSDKLoginKitProtected.h</key>
@@ -531,13 +527,6 @@
 			<key>hash2</key>
 			<data>
 			R9PPip+i+L1vURs4SF4COEe6lT3vuZLq/65WY5jdIDA=
-			</data>
-		</dict>
-		<key>Headers/SCSDKVerifyClient.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3KnQHKRhZMHMCT/NTKFuXzHKWMiZesQOI5UlcXP+Q1A=
 			</data>
 		</dict>
 		<key>Headers/SCSnapKitFeatureOptions.h</key>
