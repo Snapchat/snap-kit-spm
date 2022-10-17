@@ -16,14 +16,6 @@ typedef NS_ENUM(NSInteger, SCSDKLoginKitRefreshTokenErrorCode) {
     SCSDKLoginKitRefreshTokenErrorCodeUnknown = 999
 };
 
-#define SC_SDK_LOGIN_KIT_VERIFY_ERROR_DOMAIN @"SCSDKLoginKitVerifyErrorDomain"
-
-typedef NS_ENUM(NSInteger, SCSDKLoginKitVerifyErrorCode) {
-    SCSDKLoginKitVerifyErrorCodeNone,
-    SCSDKLoginKitVerifyErrorCodeCouldNotVerify,
-    SCSDKLoginKitVerifyErrorCodeInvalidPhoneNumber
-};
-
 #define SC_SDK_LOGIN_KIT_USER_DATA_ERROR_DOMAIN @"SCSDKLoginKitUserDataErrorDomain"
 
 typedef NS_ENUM(NSInteger, SCSDKLoginKitUserDataErrorCode) {
