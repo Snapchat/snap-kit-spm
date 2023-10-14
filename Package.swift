@@ -17,6 +17,9 @@ let package = Package(
             name: "SCSDKCoreKit",
             targets: ["SCSDKCoreKit"]),
         .library(
+            name: "SCSDKLoginKit",
+            targets: ["SCSDKLoginKit"]),
+        .library(
             name: "SCSDKCreativeKit",
             targets: ["SCSDKCreativeKit"])
     ],
