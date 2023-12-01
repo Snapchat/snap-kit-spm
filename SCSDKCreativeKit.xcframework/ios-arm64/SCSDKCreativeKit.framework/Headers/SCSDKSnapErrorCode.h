@@ -28,7 +28,6 @@ typedef NS_ENUM(NSInteger, SCSDKCreativeKitErrorCode) {
     SCSDKCreativeKitErrorCodeStickerMissingURL,
     SCSDKCreativeKitErrorCodeStickerInvalidDimensions,
     SCSDKCreativeKitErrorCodeLensMissingID,
-    SCSDKCreativeKitErrorCodeVideoTooLong,
     SCSDKCreativeKitErrorCodeTopicTooLong,
     SCSDKCreativeKitErrorCodeTopicInvalidCharacter,
     SCSDKCreativeKitErrorCodeTooManyTopics,
